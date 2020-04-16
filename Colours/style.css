@@ -11,8 +11,9 @@ button {
     font-size: 30px;
     text-align: center;
     display: inline-block;
-    border: none;
-    background-color: #fff;
+    border: #fff 2px solid;
+    background-color: #transparent;
+    color: #fff;
     text-decoration: none;
     top: 750px;
     left: 700px;
@@ -24,3 +25,7 @@ body {
     color: #fff;
     font-size: 50px;
 }
+
+
+
+
