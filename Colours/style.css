@@ -26,6 +26,25 @@ body {
     font-size: 50px;
 }
 
+@media screen and (max-width: 640px) {
+  button {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    border: #fff 5px solid;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    text-decoration: none;
+    top: 550px;
+    left: 180px;
+    bottom: 350px;
+}
+
+}
 
 
 
